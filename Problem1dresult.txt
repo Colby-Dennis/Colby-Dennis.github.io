@@ -1,0 +1,5 @@
+ Recording time to complete 100.0 second run with 
+     a delta time of 0.025. System is L=10, n=3.
+  
+  Numerical     | Analytical 
+  0.1718750     |  3.1250000E-02
